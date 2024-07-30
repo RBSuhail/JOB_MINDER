@@ -1,7 +1,8 @@
 # JobMinder
 ================
 
-![JobMinder Logo](logo.png)
+[Uploading favicon.ico…]()
+
 ![Website](https://jobminder.onrender.com/)
 
 **Your Personalized Job Search Companion**
@@ -14,10 +15,8 @@ JobMinder is a comprehensive tool designed to efficiently track and manage job a
 1. [Features](#features)
 2. [Frontend Overview](#frontend-overview)
 3. [Technologies Used](#technologies-used)
-4. [Setup and Installation](#setup-and-installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+4. [Usage](#usage)
+
 
 ## Features
 ------------
@@ -84,23 +83,7 @@ A section dedicated to generating and viewing detailed reports. Users can create
 *   **Bootstrap**
 *   **Chart.js** (for visualizing data)
 
-## Setup and Installation
--------------------------
 
-To set up JobMinder locally, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-git clone https://github.com/RBSuhail/JobMinder.git
-cd JobMinder
-
-1.  **Install dependencies:**
- ```bash
-npm install
-3.  **Start the development server:**
-    ```bash
-npm start
-The application will be available at <http://localhost:3000>.
 ## Usage
 - Sign Up / Log In: Create an account or log in to access the full features of JobMinder.
 - Add Job Applications: Use the job application form to add new job applications.
@@ -109,13 +92,3 @@ The application will be available at <http://localhost:3000>.
 ** Contributing
 - We welcome contributions from the community. To contribute, please follow these steps:
 
-** Fork the repository
-- Create a new branch (git checkout -b feature-branch)
-- Make your changes
-- Commit your changes (git commit -m 'Add some feature')
-- Push to the branch (git push origin feature-branch)
-- Open a pull request
-## License
-- JobMinder is licensed under the MIT License. See the LICENSE file for more information.
-
-- For more details and to explore the live application, visit: JobMinder
