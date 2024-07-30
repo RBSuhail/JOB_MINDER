@@ -1,10 +1,5 @@
 # JobMinder
 ================
-![Uploading 
-
-https://github.com/user-attachments/assets/b749aeb1-fbda-46b8-a4f5-d0cb5825a8b4
-
-favicon-1.jpg…]()
 
 **Your Personalized Job Search Companion**
 
