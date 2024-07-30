@@ -1,9 +1,8 @@
 # JobMinder
 ================
+![Uploading favicon-1.jpg…]()
 
-[Uploading favicon.ico…]()
-
-![Website](https://jobminder.onrender.com/)
+file:///D:/PlacementDocuments/JOBMINDER-master/client/public/favicon.ic
 
 **Your Personalized Job Search Companion**
 
