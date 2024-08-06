@@ -1,5 +1,5 @@
 # JobMinder
-================
+===============
 
 **Your Personalized Job Search Companion**
 
